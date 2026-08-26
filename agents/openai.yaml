@@ -1,0 +1,5 @@
+interface:
+  display_name: "Doubao & Nailong Artwork Converter"
+  short_description: "Convert female figures to Doubao and all others to Nailong"
+  default_prompt: "Use $dounai-art-convertor to reconstruct clearly identified female figures as Doubao and male or gender-uncertain figures as Nailong while preserving composition, pose, clothing, headwear, and the source artwork's visual language."
+
