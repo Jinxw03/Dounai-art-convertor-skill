@@ -1,5 +1,15 @@
 # Nailong Artwork Integration Guide
 
+## Highest-Priority Identity Reference Set
+
+Inspect all three cleaned identity assets before each Nailong edit. They override the written description when appearance or proportion guidance conflicts.
+
+- `assets/nailong-identity-01.png`: neutral frontal standing silhouette, vertically continuous crown-to-body anatomy, raised-arm reach, broad flat feet, and brown-gray extremity gradient.
+- `assets/nailong-identity-02.png`: three-quarter view, strong forward belly projection, cream-patch curvature, relaxed arm scale, and pear-shaped mass distribution.
+- `assets/nailong-identity-03.png`: wide crouched action pose, bent-leg support, extended-arm reach, hand-to-belly contact, and belly dominance under dynamic load.
+
+Use the set together rather than copying one pose. Preserve the source action and contacts while borrowing the references' identity, surface, anatomy, and mass hierarchy.
+
 ## Core Shape
 
 The result should look as if the original artist painted Nailong into the work. It must not resemble a sticker, mascot suit, toy, or generic dragon.
